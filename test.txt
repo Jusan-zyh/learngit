@@ -3,3 +3,4 @@ git is free software distributed under the gpl
 huazhenyu
 creating a new branch is quick & simple
 creating a new branch is quick AND simple
+add merge
